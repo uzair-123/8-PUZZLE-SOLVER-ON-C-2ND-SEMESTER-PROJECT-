@@ -8,3 +8,5 @@ TO RUN , OPEN 8 PUZZLE.EXE FILE
 
 After opening the solver program,
 Give input of 9 tiles from 1 to 8 , and 0 for empty tile.
+
+After input given , this program solves the puzzle, and show total number of steps , and also show each step configuration.
